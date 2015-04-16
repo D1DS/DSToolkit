@@ -1,6 +1,6 @@
 # DSToolkit
 For Coursera DS Toolkit course
 
-Time to 'edit' this sucker! There, I'm doing it. 
+Didn't close the issue 
 
-Fruit of the day: Apples
+Fruit of the day is now pears
